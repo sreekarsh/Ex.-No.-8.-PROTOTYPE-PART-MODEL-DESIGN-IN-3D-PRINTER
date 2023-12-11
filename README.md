@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![exp45](https://github.com/sreekarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841918/4efdd8b8-c01e-4de1-8fb4-65d3574708c9)
+
+
+### Name:Masina sree karsh
+### Register Number:23005860
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
